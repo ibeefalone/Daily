@@ -1,2 +1,8 @@
 # Daily
-A collection of digital art pieces made every day by Tavia Morra www.ibeefalone.com for more
+
+A collection of generative art pieces made every day by Tavia Morra
+
+Made using TouchDesigner 099
+
+www.ibeefalone.com
+@ibeefalone on Instagram
